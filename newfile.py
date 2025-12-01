@@ -1,3 +1,4 @@
+#test baraye git
 def get_raw_list():
     raw=input ("enter your num: ")
     part=raw.split(',')
@@ -70,6 +71,4 @@ def main():
          
 if __name__=="__main__":
       main()
-     
-#test baraye git
-      
+           
